@@ -1,2 +1,3 @@
-# repositorio de prueba
-Esto es una prueba para ver si en github podemos colgar el código, el videotutorial, el manual y algunas imágenes de prueba.
+# Synaptonemal & CO analyzer
+Please notice that this software is based on a publication. Please cite it as:
+This software is intended to analyze ...
